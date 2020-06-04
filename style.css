@@ -5,6 +5,11 @@
     height: 100%;
     width: 100%;
   }
+.title {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 400;
+  font-size: 2.5rem;
+}
 
 #img-div{
   background-color: white;
@@ -45,7 +50,10 @@ img {
   margin: 0 auto;
 }
 
-
+h3{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+}
 
 h1{
   margin: 25p;
@@ -55,5 +63,6 @@ h1{
   font-family: 'Courier New', Courier, monospace;
 }
 .parag{
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
 }
